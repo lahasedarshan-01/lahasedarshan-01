@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Darshan Lahase</h1>
 <h3 align="center">B.Tech CSE Student | Future Developer</h3>
-<img align="right" alt="coding" width="400" src="C:\Darshan\Animated Coding GIF.png">
+<img align="right" alt="coding" width="400" src=<img width="283" height="178" alt="image" src="https://github.com/user-attachments/assets/d9ab39b8-bcbe-400d-aeda-3ce7d95ebed1" />
+>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lahasedarshan-01&label=Profile%20views&color=0e75b6&style=flat" alt="lahasedarshan-01" /> </p>
